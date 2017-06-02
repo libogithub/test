@@ -6,4 +6,8 @@ test01_bracch_1.0.0
 >>>>>>> refs/remotes/origin/test1.0.0
 =======
 test01_bracch_1.0.0_branch_1.0.0
+<<<<<<< HEAD
 >>>>>>> refs/heads/test1.0.0
+=======
+webchange
+>>>>>>> refs/remotes/origin/test1.0.0
